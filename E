@@ -69,7 +69,7 @@ local Tabs = {
     },
     Settings = Window:CreateTab{
         Title = "Settings",
-        Icon = "settings"
+        Icon = "save"
     } -- Falta el cierre aquí
 }
 
